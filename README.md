@@ -5,9 +5,9 @@
   <p align="center">
     <a href="https://discord.gg/3Y3e4DAXUD">Discord</a>
     ·
-    <a href="https://github.com/Unique-Design/Unique-Design/issues/new">Report Bug</a>
+    <a href="https://github.com/Unique-Design/Unique-Design/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/Unique-Design/Unique-Design/pulls/new">Request Feature</a>
+    <a href="https://github.com/Unique-Design/Unique-Design/issues/new/choose">Request Feature</a>
   </p>
 </p>
 <p align="center">Love the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!
