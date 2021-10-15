@@ -7,7 +7,7 @@
     ·
     <a href="https://github.com/Unique-Design/Unique-Design/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/Unique-Design/Unique-Design/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/Unique-Design/Unique-Design/pull/new/choose">Request Feature</a>
   </p>
 </p>
 <p align="center">Love the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!
