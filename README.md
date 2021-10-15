@@ -3,7 +3,7 @@
  <h2 align="center">Unique Designs</h2>
 </p>
   <p align="center">
-    <a href="#demo">View Demo</a>
+    <a href="https://discord.gg/3Y3e4DAXUD">Discord</a>
     ·
     <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
     ·
